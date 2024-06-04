@@ -27,14 +27,14 @@
             "productName": "Chicken-Sub",
             "category": "Sandwich",
             "description": "Toasted-roll topped with a special selection of salads and our housebrand spiced chicken.",
-            "amount": 79.99,
+            "amount": 59.99,
             "img_url": "https://achar1f.github.io/projectimages/freshBitesResources/chickenSaladSub.jpeg"
         },
         {
             "productName": "Buffalo Chicken Wrap",
             "category": "Wrap",
             "description": "Toasted wrap filled with our buffalo style chicken and salad.",
-            "amount": 79.99,
+            "amount": 74.99,
             "img_url": "https://achar1f.github.io/projectimages/freshBitesResources/buffalo-chicken-wrap1-1659470768.jpg"
         }
     ]
